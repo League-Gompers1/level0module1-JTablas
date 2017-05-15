@@ -10,7 +10,7 @@ public class HighLowGame {
 		
 		int num;
 		Random ran = new Random();
-		num = ran.nextInt(101);
+		num = ran.nextInt(100);
 	
 		System.out.println(num);
 		

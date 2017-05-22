@@ -28,7 +28,6 @@ public class VotingMachine {
 	} else if (bill==rock){
 	JOptionPane.showMessageDialog(null, "It's a tie");
 	}
-
 	
 	
 }	
